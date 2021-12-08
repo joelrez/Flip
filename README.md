@@ -1,5 +1,5 @@
 # Flip
-Flip is a game that I quickly wrote up in Java. I came up with the rules of the game, and it turns out this puzzle idea has already been done in "Between Time: Escape Room."
+Flip is a game that I quickly wrote up in Java. I came up with the rules of the game, and it turns out this puzzle idea has already been done in "Between Time: Escape Room." In the future, I might want to make this game into a mobile app.
 
 # How to Play
 On the board there will be X's and O's, and by clicking on them, they switch to the other. For instance, if you click an X it will "flip" to an O, and vice versa. In addition, that X or O's adjacent cells will also flip. The objective of the game is to get all O's on the board like below.
